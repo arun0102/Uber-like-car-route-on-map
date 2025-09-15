@@ -7,6 +7,7 @@ Code contains below:
 - Hilt
 - Google Maps
 - Maps API services
+- Secrets
 
 
 ## Video of the workflow:
