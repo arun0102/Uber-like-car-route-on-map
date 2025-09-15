@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vehicle Tracking App</string>
+    <string name="test_string">hello<b><font color='#FF0000'>world</font></b></string>
+
+</resources>
